@@ -1,0 +1,29 @@
+﻿Electric,,Source,Price
+,MicroSquirt,ebay,374.72
+,Manifold Pressure Sensor (MAP),ebay,10.99
+,Air Temperature Sensor (AT),ebay,5
+,Throttle Position Sensor (TPS),ebay,10.29
+,Cylinder Head Temperature (CHT),ebay,12.97
+,Knock sensor,ebay,10.29
+,Connection harnesses,?,0
+,Wire,ACS,15
+,Fuse,?,2
+Ignition,,,
+,Quad Coil Pack,ebay,65.95
+,Sparkplug leads,ebay,30
+,Sparkplug adapters,ACS,98
+,Sparkplugs,ebay,20
+Fuel,,,
+,Throttle body with backup low-pressure injector,mfg,20
+,Fuel Injectors,ebay,51.16
+,Fuel Injector bosses,mfg,100
+,Fuel lines,?,100
+,Fuel pump,existing,0
+,Fuel manifold,ebay,20
+,Fuel pressure regulator,ebay,34.25
+Redundant backup system,,,
+,Fuel Header tank,ACS,100
+,magneto,existing,0
+,on/off fuel valve,ebay,10
+,,,
+,,Total,1090.62
